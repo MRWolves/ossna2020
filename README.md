@@ -1,6 +1,6 @@
 # ossna2020
 
-Screenshots/slides from the Open Source Summit + ELC North America 2020 (virtual) conference
+Screenshots/slides from the [Open Source Summit + ELC North America 2020](https://ossna2020.sched.com/?timezone=America%2FToronto) (virtual) conference
 
 ## Day 1
 
